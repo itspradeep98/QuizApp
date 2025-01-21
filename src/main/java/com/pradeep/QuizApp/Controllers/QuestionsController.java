@@ -3,7 +3,6 @@ package com.pradeep.QuizApp.Controllers;
 import com.pradeep.QuizApp.Entities.Questions;
 import com.pradeep.QuizApp.Service.QuestionsService;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
